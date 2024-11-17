@@ -1,6 +1,6 @@
 <template>
   <div>
-
+  бНОПНЯ
   </div>
 </template>
 

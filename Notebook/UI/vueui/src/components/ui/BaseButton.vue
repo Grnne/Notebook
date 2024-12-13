@@ -1,12 +1,14 @@
 <template>
-  <div>
+  <button class="btn">
+    <slot>
 
-  </div>
+    </slot>
+  </button>
 </template>
 
 <script>
 export default {
-  name: "NbNavbar",
+  name: "BaseButton"
 }
 </script>
 

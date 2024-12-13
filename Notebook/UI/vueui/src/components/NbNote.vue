@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: "NbNavbar",
+  name: "NbNote",
 }
 </script>
 

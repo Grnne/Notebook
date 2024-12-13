@@ -1,12 +1,12 @@
 <template>
   <div>
-  бНОПНЯ
+
   </div>
 </template>
 
 <script>
 export default {
-
+  name: "BaseSelect",
 }
 </script>
 

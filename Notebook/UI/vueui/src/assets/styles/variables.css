@@ -1,0 +1,17 @@
+:root {
+    --button-primary-color: #52759c;
+    --button-secondary-color: #2ecc71; /* TODO */
+    --button-tertiary-color: #95a5a6; /* TODO */
+    --button-hover-color: #42607a;
+
+    --text-primary-color: #333333; /* Main text color */
+    --text-secondary-color: #7f8c8d; /* Secondary text color */
+    --text-disabled-color: #bdc3c7; /* Disabled text color */
+
+    --background-primary-color: #141414;
+    --background-secondary-color: #222222; /* TODO */
+    --background-container-color: #222222;
+
+    --container-main-color: #ffffff; /* Main container color */
+    --container-accent-color: #e74c3c; /* Accent container color */
+}
